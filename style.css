@@ -69,14 +69,8 @@ p:hover{
         cursor: pointer;
     }
     
-    .menu-icon.active #bar1{
-        transform: translateY(4px) rotate(45deg);
-    }
-    .menu-icon.active #bar2{
-        display: none;
-    }
-    .menu-icon.active #bar3{
-        transform: translateY(-4px) rotate(-45deg);
+    .menu-icon.active{
+        transform: translateY(4px) rotate(90deg);
     }
     
     .menu{
