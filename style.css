@@ -56,17 +56,14 @@ p:hover{
 }
 
 @media (max-width: 320px){
-    .title{
-        width:fit-content;
-        font-size: 3A0px;
-    }
-    .menu{
-        width: 30%;
-        display: none;
-    }
+    
 }
 
 @media (max-width:480px) {
+    .title{
+        width:fit-content;
+        font-size: 160%;
+    }
     .menu-icon{
         display: block;
         cursor: pointer;
