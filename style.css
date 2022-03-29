@@ -59,7 +59,7 @@ p:hover{
     
 }
 
-@media (max-width:480px) {
+@media (max-width:360px) {
     .title{
         width:fit-content;
         font-size: 160%;
